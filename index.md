@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <link rel="stylesheet" type="text/css" href="halamanstyle.css">
   <head>
